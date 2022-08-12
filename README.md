@@ -4,7 +4,7 @@
 
 ## About this project
 
-Text Analyzer project using HTML, CSS, JS and Bootstrap. It is also publishable project and has many suitable features in manipulating the text 
+Number Sorter project using Python. It sorts the user input integer in ascending or descending order
 
 &nbsp;
 
@@ -25,4 +25,6 @@ variable_name.sort()
 
 # Creation By
 
-<img src="/images/Vector.svg" alt="Glos Code">
+&nbsp;
+
+<img src="/images/Vector.svg" alt="Glos Code" width="200">
